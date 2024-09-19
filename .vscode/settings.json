@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "cloudinary"
+    ],
+    "files.exclude": {
+        "**/.git": false
+    },
+    "workbench.editor.limit.perEditorGroup": true
+}
